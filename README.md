@@ -1,8 +1,8 @@
 # Techdionary - Tech abbreviations, terms, words and phrases you can easily search.
 
 IT world is full of mysterious and incomprehensible abbreviations and words.
-Finding meaning to them can sometimes be difficult and time consuming . Here's a
-concentrated alphabetical list of tech abbreviations, terms, words and phrases
+Finding a meaning to them can sometimes be difficult and time-consuming. Here's
+a concentrated alphabetical list of tech abbreviations, terms, words and phrases
 you can easily search.
 
 ## The list
@@ -11,15 +11,46 @@ you can easily search.
 
 #### API
 
+_Application programming interface._ API allows applications to communicate with
+one another.
+
+Often used to generalized to mean "publicly available web-based API which
+returns data"
+
+Sources:
+
+- https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f
+- http://developer.pearson.com/blog/whats-api-3-ways-explain-it
+
 ### B
 
-#### Back End
+#### Back End, backend, back-end
+
+#### Browser cache
 
 ### C
 
 #### Cache
 
+Pronounced as "cash". Data which is stored so that it can be accessed faster at
+later time.
+
+Often used as "[web cache](#web-cache)" or "[browser cache](#browser-cache)".
+
+Sources:
+
+- https://techterms.com/definition/cache
+- https://en.wikipedia.org/wiki/Cache_(computing)
+
 #### CLI
+
+_Command-line interface or command-line interpreter._ Text-based way to interact
+with the program. Commands are issued by writing lines of text.
+
+Sources:
+
+- https://en.wikipedia.org/wiki/Command-line_interface
+- https://www.techopedia.com/definition/3337/command-line-interface-cli
 
 #### Closure
 
@@ -28,12 +59,6 @@ you can easily search.
 #### Cookies
 
 #### Cors
-
-#### Crawl
-
-(REWRITE! copied from another site) When search engines send bots to your
-website in order to gather intel on pages that exist and don’t exist in order to
-determine what content should be displayed or removed on search engines.
 
 #### CRM
 
@@ -57,17 +82,11 @@ Some app or service, e.g. a browser, that is always up-to-date.
 
 #### Evergreen browser(s)
 
-Browser that always supports the latest version.
+A browser that always supports the latest version.
 
 ### F
 
 #### Favicon
-
-#### Framework
-
-(REWRITE! copied from another site) Suite of programs used in website or
-software development. This lays the groundwork for the type of programming
-language used for your site or app development.
 
 #### Front End, frontend, front-end
 
@@ -93,6 +112,15 @@ e.g. headless cms
 
 ### I
 
+#### IaaS
+
+_Infrastructure as a Service_. You pay for third-party to host servers, server
+rooms or data centers for you.
+
+Sources:
+
+- https://searchcloudcomputing.techtarget.com/definition/Infrastructure-as-a-Service-IaaS
+
 ### J
 
 ### K
@@ -113,17 +141,7 @@ https://en.wikipedia.org/wiki/Monad_(functional_programming)
 
 ### O
 
-#### OOTB
-
-(REWRITE! copied from another site) “Out of the Box.” Also known as “Off the
-Shelf.” These are the ready-made, plug-and-play options for features and
-functions that you can download and install without the need to customize or
-configure. Instead of making the brownies from scratch, you’re using the mix
-(either way, it’s still tasty).
-
 ### P
-
-#### Plugin
 
 ### Q
 
@@ -139,19 +157,53 @@ configure. Instead of making the brownies from scratch, you’re using the mix
 
 ### S
 
-#### SAAS, SAAS Platforms
+#### SaaS
+
+_Software as a service._ Software licensing model in which you use the software
+provided by a third-party provider. Often you pay a subscription for using the
+service but it can also be completely or partially free for some features and
+you pay for access to premium features.
+
+Sources:
+
+- https://searchcloudcomputing.techtarget.com/definition/Software-as-a-Service
+- https://en.wikipedia.org/wiki/Software_as_a_service
 
 #### Sass, Scss
-
-#### Scope
 
 #### Server
 
 #### SLA
 
-#### SOLID
+#### Software framework
 
-https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+Foundation for programming applications. Reusable code, often in form of library
+you include in the project, that you can use to extend or build new
+functionality.
+
+Sources:
+
+- https://www.techopedia.com/definition/14384/software-framework
+- https://techterms.com/definition/framework
+- https://en.wikipedia.org/wiki/Software_framework
+
+#### S.O.L.I.D, SOLID
+
+Acronym for design principles by Robert C. Martin for more understandable,
+flexible and maintainable software design.
+
+The five design principles are
+
+- **S**ingle-responsiblity principle
+- **O**pen-closed principle
+- **L**iskov substitution principle
+- **I**nterface segregation principle
+- **D**ependency Inversion Principle
+
+Sources:
+
+- https://en.wikipedia.org/wiki/SOLID
+- https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 
 #### SVN
 
@@ -171,6 +223,8 @@ https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriente
 
 ### W
 
+#### Web cache
+
 #### Web scraper
 
 #### Widget
@@ -187,4 +241,7 @@ https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriente
 
 ### 0-9
 
-#### 404
+Software licensing model in which you use the software provided by a third-party
+provider. Often you pay a subscription for using the service but it can also be
+completely or partially free for some features and you pay for access to premium
+features
