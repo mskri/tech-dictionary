@@ -1,4 +1,4 @@
-# Techdionary - Tech abbreviations, terms, words and phrases you can easily search.
+# Tech dictionary - Tech abbreviations, terms, words and phrases you can easily search.
 
 IT world is full of mysterious and incomprehensible abbreviations and words.
 Finding a meaning to them can sometimes be difficult and time-consuming. Here's
@@ -25,8 +25,6 @@ Sources:
 ### B
 
 #### Back End, backend, back-end
-
-#### Browser cache
 
 ### C
 
@@ -56,7 +54,26 @@ Sources:
 
 #### CMS
 
-#### Cookies
+_Content management system._ Management system to manage and modify content that make up a digital product, usually a website. Enables collaborative work. Usually connected to a front-end that consumes the content managed by CMS.
+
+Sources:
+
+- https://whatcms.org/What-Is-A-CMS
+- https://en.wikipedia.org/wiki/Content_management_system
+
+#### Cookie
+
+_Also known as web cookie or browser cookie._ Small piece of data sent to user's browser from server. Browser stores the data allowing it to remember e.g. what user has filled into inputs or what their shopping cart contain.
+
+Used most often for the following purposed:
+
+- Session management: Login state, shopping cart or piece of data server should remember
+- Personalization: user preferences, chosen theme and other settings
+- Tracking: Recording and analyzing user behavior
+
+Sources:
+
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
 
 #### Cors
 
@@ -87,6 +104,13 @@ A browser that always supports the latest version.
 ### F
 
 #### Favicon
+
+Small icon that is associated to a website. You can usually see favicons on the browser tabs.
+
+Sources:
+
+- https://en.wikipedia.org/wiki/Favicon
+- https://www.abeautifulsite.net/what-are-favicons
 
 #### Front End, frontend, front-end
 
@@ -240,8 +264,3 @@ Sources:
 ### Z
 
 ### 0-9
-
-Software licensing model in which you use the software provided by a third-party
-provider. Often you pay a subscription for using the service but it can also be
-completely or partially free for some features and you pay for access to premium
-features
